@@ -21,10 +21,13 @@ enum Rome {
     C(100);
 
     private int a;
+
     Rome(int a) {
         this.a = a;
     }
-    public int getA(){
+
+    public int getA() {
         return a;
     }
+
 }

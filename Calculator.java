@@ -26,8 +26,8 @@ class Calculator {
                 break;
         }
         return result;
-            }
-        }
+    }
+}
 
 
 
